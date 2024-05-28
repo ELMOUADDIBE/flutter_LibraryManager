@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'members_screen.dart'; // Assurez-vous d'importer le fichier où la classe Member est définie
+import 'members_screen.dart';
 
 class MemberDetailScreen extends StatelessWidget {
   final Member member;
